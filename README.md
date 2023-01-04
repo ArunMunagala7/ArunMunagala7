@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arun Munagala</h1>
-<h3 align="center">A sophomore in NIT Warangal</h3>
+<h3 align="center">A sophomore at NIT Warangal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunmunagala7&label=Profile%20views&color=0e75b6&style=flat" alt="arunmunagala7" /> </p>
 
