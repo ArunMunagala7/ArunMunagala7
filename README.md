@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Kaggle Knight Hackathon](https://github.com/ArunMunagala7/Kaggle-Knight-hackathon)
 
-- 🌱 I’m currently learning **Computer Vision,ML Explainability,Reinforcement Learning**
+- 🌱 I’m currently learning **Computer Vision,ML Explainability,Reinforcement Learning,Geospatial Analysis,Time Series**
 
 - 👯 I’m looking to collaborate on **AI Projects**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arun munagala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun munagala" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arun-munagala-b5b993222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun munagala" height="30" width="40" /></a>
 <a href="https://kaggle.com/arunmunagala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arunmunagala" height="30" width="40" /></a>
 <a href="https://instagram.com/arunmunagala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arunmunagala" height="30" width="40" /></a>
 </p>
