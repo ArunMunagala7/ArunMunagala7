@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunmunagala7&label=Profile%20views&color=0e75b6&style=flat" alt="arunmunagala7" /> </p>
 
-- 🔭 I’m currently working on [Kaggle Knight Hackathon](https://github.com/ArunMunagala7/Kaggle-Knight-hackathon)
+- 🔭 I’m currently working on [Kaggle Playground Competition Jan 2023](https://github.com/ArunMunagala7/Kaggle-Playground-Series-Season-3-Episode-1)
 
 - 🌱 I’m currently learning **Computer Vision,ML Explainability,Reinforcement Learning,Geospatial Analysis,Time Series**
 
