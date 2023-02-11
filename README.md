@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunmunagala7&label=Profile%20views&color=0e75b6&style=flat" alt="arunmunagala7" /> </p>
 
-- 🔭 I’m currently working on [IITM SHAASTRA AI/ML HACKATHON](https://github.com/ArunMunagala7/SHAASTRA-IITM-2023-Hackathon)
+- 🔭 I’m currently working on [TRINIT HACKATHON 2023](https://github.com/ArunMunagala7/TRINIT-TheChatGPTCult-ML03)
 
 - 🌱 I’m currently learning **Computer Vision,ML Explainability,Reinforcement Learning,Geospatial Analysis,Time Series**
 
