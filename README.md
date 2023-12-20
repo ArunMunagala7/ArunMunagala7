@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunmunagala7&label=Profile%20views&color=0e75b6&style=flat" alt="arunmunagala7" /> </p>
 
-- 🔭 I’m currently working on Nothing really
-
 - 🌱 I’m currently learning **Computer Vision,ML Explainability,Reinforcement Learning,LLMs**
 
 - 👯 I’m looking to collaborate on **AI Projects**
