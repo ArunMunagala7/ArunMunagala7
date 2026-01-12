@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arun Munagala</h1>
-<h3 align="center">A junior at NIT Warangal</h3>
+<h3 align="center">A Grad Student at Indiana University Bloomingotn</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunmunagala7&label=Profile%20views&color=0e75b6&style=flat" alt="arunmunagala7" /> </p>
 
-- 🌱 I’m currently learning **Computer Vision,ML Explainability,Reinforcement Learning,LLMs**
+- 🌱 I’m currently learning **AI Agents, MCPs, LLMs**
 
 - 👯 I’m looking to collaborate on **AI Projects**
 
